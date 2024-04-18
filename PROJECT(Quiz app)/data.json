@@ -1,0 +1,78 @@
+{
+    "question": [
+      "Q1. When was Python created?",
+      "Q2. Who is the creator of Python?",
+      "Q3. What is the full form of IDE?",
+      "Q4. Convert x into a integer. x = 5.5 x = _________(x).",
+      "Q5. Create a variable named x and assign the value of integer 50 to it.",
+      "Q6. What is used to print the length of a string.",
+      "Q7. Fill in the blank if a> b: print('True') _____: print('False').",
+      "Q8. Select the right syntax to create a function called my_function.",
+      "Q9. What will be the output for the following code: for x in range(6): print(x).",
+      "Q10. What do we use to add something to a list?"],
+   
+      "answer": [ 
+      1,
+      2,
+      3,
+      2,
+      4,
+      1,
+      4,
+      1,
+      3,
+      3
+    ],
+    "options": [
+      ["1991",
+        "1992",
+        "1987",
+        "1988"
+      ],
+      ["Jeff Bezos",
+        "Guido Van Rossum",
+        "Tim Berners-Lee",
+        "Mukesh Ambani"
+      ],
+      ["Integrated Development Execution",
+        "Internal Degraded Environment",
+        "Integrated Development Environment",
+        "Internal Development Environment"
+      ],
+      ["float",
+        "int",
+        "complex",
+        "print"
+      ],
+      ["x='50'",
+       "x:50",
+       "'x'=50",
+       "x=50"
+      ],
+      ["len()",
+       "length()",
+       "type.length()",
+       "fulllength()"
+      ],
+      ["otherwise:",
+       "then:",
+       "elif:",
+       "else:"
+      ],
+      ["def my_function:",
+       "define my_function:",
+       "func my_function:",
+       "crerate funct my_function"
+      ],
+      ["0 1 2 3 4 5 6",
+       "1 2 3 4 5 6",
+       "0 1 2 3 4 5",
+       "1 2 3 4 5"
+      ],
+      ["upper()",
+       "lower()",
+       "append()",
+       "camelcase()"
+      ]
+    ]
+  }
